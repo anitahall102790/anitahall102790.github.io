@@ -1,0 +1,53 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+    color: black;
+}
+.top-bar{
+    padding-left: 70px;
+}
+.aboutme{
+    height: 400px;
+    padding-top: 15px;
+    text-align: center;
+}
+.headertext{
+    font-size: 2em;
+}
+.menu_img{
+}
+.menul{
+    text-align: center;
+}
+.menuli{
+    text-align: center;
+    padding: 1em;
+}
+.headertext {
+    text-align: center;
+    font-size: 1em;
+}
+
+ 
+a {
+	text-decoration: none;
+}
+.aboutimg {
+    max-height: 60%;
+    max-width: 30%;
+    padding: 1em;
+    margin-left: 350px;  
+}
+.abouttext{
+padding: 1em;
+text-align: center;
+}
+.contactme {
+    text-align: center;
+    padding-bottom: 25px;
+}
+.homeimg {
+    max-width: 80%;
+    padding: 1em;
+    margin-left: 110px
+}
